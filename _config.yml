@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Martin Ethier"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "linkedin_profile_pic_png.png"
+  bio              : "MASc student at the University of Waterloo researching neural rendering for autonomous driving."
   location         : "Waterloo, ON"
   employer         :
   pubmed           :
