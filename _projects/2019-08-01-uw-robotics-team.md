@@ -1,6 +1,6 @@
 ---
 title: "UW Robotics Team"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/projects/uw_robotics_robot.jpg' style='width:512px;'>"
+excerpt: "Building computer vision software for an autonomous robot racing competition.<br/><img src='/images/projects/uw_robotics_robot.jpg' style='width:512px;'>"
 collection: portfolio
 ---
 
