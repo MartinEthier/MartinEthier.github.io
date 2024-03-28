@@ -1,6 +1,6 @@
 ---
 title: "WATonomous"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/projects/wato_car.png' style='width:512px;'>"
+excerpt: "Building perception software for a autonomous driving competition.<br/><img src='/images/projects/wato_car.png' style='width:512px;'>"
 collection: portfolio
 ---
 

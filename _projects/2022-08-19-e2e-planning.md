@@ -1,6 +1,6 @@
 ---
 title: "End-to-End Planning on Comma2k19"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/projects/e2e_demo.gif' style='width:512px;'>"
+excerpt: "Training a model for end-to-end planning through behavior cloning.<br/><img src='/images/projects/e2e_demo.gif' style='width:512px;'>"
 collection: portfolio
 ---
 

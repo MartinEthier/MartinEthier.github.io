@@ -1,6 +1,6 @@
 ---
 title: "Comma Calibration Challenge"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/projects/visual_odometry.png' style='width:512px;'>"
+excerpt: "Estimating offset between camera pose and ego heading using visual odometry.<br/><img src='/images/projects/visual_odometry.png' style='width:512px;'>"
 collection: portfolio
 ---
 

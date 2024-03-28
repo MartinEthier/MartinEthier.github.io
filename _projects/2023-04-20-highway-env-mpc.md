@@ -1,6 +1,6 @@
 ---
 title: "Model Predictive Control on highway-env"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/projects/highway_env.gif' style='width:512px;'>"
+excerpt: "Using model predicting control (MPC) for planning on the highway-env simulator.<br/><img src='/images/projects/highway_env.gif' style='width:512px;'>"
 collection: portfolio
 ---
 

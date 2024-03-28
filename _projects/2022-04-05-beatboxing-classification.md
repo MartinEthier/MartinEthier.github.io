@@ -1,6 +1,6 @@
 ---
 title: "Beatboxing Classification (MSCI 446)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/projects/mel_spectrogram.png' style='width:512px;'>"
+excerpt: "Classifying vocal percussion audio using machine learning.<br/><img src='/images/projects/mel_spectrogram.png' style='width:512px;'>"
 collection: portfolio
 ---
 
