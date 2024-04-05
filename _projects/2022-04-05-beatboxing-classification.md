@@ -1,7 +1,7 @@
 ---
 title: "Beatboxing Classification (MSCI 446)"
 excerpt: "Classifying vocal percussion audio using machine learning.<br/><img src='/images/projects/mel_spectrogram.png' style='width:512px;'>"
-collection: experience
+collection: projects
 link: https://github.com/MartinEthier/beatboxing-classification
 ---
 

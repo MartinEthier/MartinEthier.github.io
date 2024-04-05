@@ -1,7 +1,7 @@
 ---
 title: "WATonomous"
 excerpt: "Building perception software for a autonomous driving competition.<br/><img src='/images/projects/wato_car.png' style='width:512px;'>"
-collection: experience
+collection: projects
 link: https://www.watonomous.ca/
 ---
 
