@@ -1,7 +1,7 @@
 ---
 title: "Model Predictive Control on highway-env"
 excerpt: "Using model predicting control (MPC) for planning on the highway-env simulator.<br/><img src='/images/projects/highway_env.gif' style='width:512px;'>"
-collection: portfolio
+collection: experience
 link: https://github.com/MartinEthier/highway-env-mpc
 ---
 
