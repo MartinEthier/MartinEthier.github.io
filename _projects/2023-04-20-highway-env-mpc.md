@@ -1,8 +1,6 @@
 ---
 title: "Model Predictive Control on highway-env"
-excerpt: "Using model predicting control (MPC) for planning on the highway-env simulator.<br/><img src='/images/projects/highway_env.gif' style='width:512px;'>"
+excerpt: "In this project I try using model predicting control (MPC) for planning on the highway-env simulator. Here I defined an MPC formulation that takes into account trajectory predictions for all other cars, and tries to optimize a plan that makes progress towards the goal while avoiding all other agents over the horizon. The issue with this formulation is the non-convexity of the collision check constraint, which makes the optimization very unstable.<br/><img src='/images/projects/highway_env.gif' style='width:512px;'>"
 collection: projects
 link: https://github.com/MartinEthier/highway-env-mpc
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

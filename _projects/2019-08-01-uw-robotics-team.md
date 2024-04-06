@@ -1,8 +1,6 @@
 ---
 title: "UW Robotics Team"
-excerpt: "Building computer vision software for an autonomous robot racing competition.<br/><img src='/images/projects/uw_robotics_robot.jpg' style='width:512px;'>"
+excerpt: "I led the computer vision team for an autonomous robot racing competition. We built software to process LiDAR data, as well as process camera data to detect and classify lane lines, stop lines, and traffic signs.<br/><img src='/images/projects/uw_robotics_robot.jpg' style='width:512px;'>"
 collection: projects
 link: https://github.com/UWRobotRacing/RR-Hummingbot-Software
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
