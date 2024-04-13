@@ -17,11 +17,11 @@ Here I also provide a list of all courses I found to be relevant or interesting 
 
 | Term | Course ID | Course Name |
 | --- | --- | --- |
-| MASc | ECE 604 | Stochastic Processes |
-| MASc | CS 885 | Reinforcement Learning |
-| MASc | CS 680 | Introduction to Machine Learning |
-| MASc | ECE 750 | Game-theoretic Foundations of Multi-agent Systems |
 | MASc | ECE 780 | Model Predictive Control |
+| MASc | ECE 750 | Game-theoretic Foundations of Multi-agent Systems |
+| MASc | CS 885 | Reinforcement Learning |
+| MASc | ECE 604 | Stochastic Processes |
+| MASc | CS 680 | Introduction to Machine Learning |
 | 4B | ECE 495 | Autonomous Vehicles |
 | 4B | ECE 459 | Programming for Performance |
 | 4B | MSCI 446 | Introduction to Machine Learning |
