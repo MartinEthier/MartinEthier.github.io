@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Overview
-
-I am machine learning research engineer with an interest in artificial intelligence for robotics. I am currently working on my master's degree at the University of Waterloo, where I am writing my thesis on neural rendering for autonomous vehicle simulation. See the Publications and Research pages for more information on my research. During my undergrad, I worked multiple internships as a machine learning engineer/researcher at companies such as OTTO Motors, DarwinAI, and Huawei. I worked on many software projects during my undergrad, including student design teams, three hackathons, a capstone design project, and many personal projects. See the Projects page for more information on these projects.
+I am machine learning research engineer with an interest in artificial intelligence for robotics. I am currently working on my master's degree at the University of Waterloo, where I am researching neural rendering for autonomous vehicle simulation. During my undergrad, I did multiple internships as a machine learning engineer/researcher at companies such as OTTO Motors, DarwinAI, and Huawei. I worked on many software projects during my undergrad, including student design teams, three hackathons, a capstone design project, and multiple personal projects.
 
 I am currently searching for a full-time position as a research engineer in the fields of computer vision, robotics, or self-driving cars. For anyone interested, my resume can be found in the CV section of this website.
 
