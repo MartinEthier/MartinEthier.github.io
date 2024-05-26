@@ -9,4 +9,4 @@ redirect_from:
 
 Here I have inserted my latest resume. You can download it using the button in the PDF viewer.
 
-<iframe src="/files/pdf/Summer_2021_Resume.pdf" style="width: 100%; height: 100vh"></iframe>
+<iframe src="/files/pdf/martin_ethier_resume_2024.pdf" style="width: 100%; height: 100vh"></iframe>
