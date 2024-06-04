@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 Here you can download my latest resume: <a href="/files/pdf/martin_ethier_resume_2024.pdf" target="_blank">martin_ethier_resume.pdf</a>
